@@ -3,9 +3,9 @@
 ![Profile Image](https://github.com/Azuking69.png)
 
 ## 👩‍💻 About Me
-- 🎓 I'm a university student majoring in programming and AI
+- 🎓 I'm a Yeungjin university student majoring in programming and AI
 - 💻 I love working with Python, PHP, and web dev!
-- 🌱 Currently learning: Machine Learning & Arduino 🎧
+- 🌱 Currently learning: Python⌨️ & HTML🛜
 
 ## 🛠 Technologies & Tools
 
