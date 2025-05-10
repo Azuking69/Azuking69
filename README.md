@@ -1,6 +1,5 @@
 # Hi! 🐶💕 I'm Azuki! 
 
-![Profile Image](https://github.com/Azuking69.png)
 
 ## 👩‍💻 About Me
 - 🎓 I'm a Yeungjin university student majoring in programming and AI
@@ -12,8 +11,13 @@
 - 🖥️ **Languages**: Python, HTML, PHP
 - ⚙️ **Tools**: Git, Docker, VSCode
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azuking69&show_icons=true&theme=radical)
+## 🔥 Current Streak / 🏆 Used Languages
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Azuking69&theme=rose)](https://git.io/streak-stats)
 
-## 🏆 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azuking69&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azuking69&layout=compact&theme=rose)
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azuking69&show_icons=true&theme=rose)
+
+## 📊 3D Contribution Graph
+![3D Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Azuking69&theme=rose)
