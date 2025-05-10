@@ -23,7 +23,8 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azuking69&theme=rose&hide_border=true" width="100%" />
     </td>
     <td width="40%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azuking69&layout=compact&theme=rose&hide_border=true" width="100%" height="200px" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azuking69&layout=compact&theme=rose&hide_border=true" width="100%" />
+      <br><br><br> <!-- ← 高さ調整ここ -->
     </td>
   </tr>
 </table>
