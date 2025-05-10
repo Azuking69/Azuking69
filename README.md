@@ -17,7 +17,6 @@
 </p>
 
 ## 🔥 Current Streak / 🏆 Used Languages
-## 🔥 Current Streak / 🏆 Used Languages
 <table border="0">
   <tr>
     <td width="50%">
