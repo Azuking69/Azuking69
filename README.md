@@ -17,20 +17,21 @@
 </p>
 
 ## 🔥 Current Streak / 🏆 Used Languages
-<table border="0">
+
+<table>
   <tr>
-    <!-- 🔥 Current Streak（왼쪽）-->
-    <td width="60%" align="center" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azuking69&theme=rose&hide_border=true" width="100%" />
+    <!-- 左：サイズ固定（いじらない） -->
+    <td align="center" valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azuking69&theme=rose&hide_border=true" width="600" height="300"/>
     </td>
 
-    <!-- 🏆 Used Languages（右）-->
-    <td width="40%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azuking69&layout=compact&theme=rose&hide_border=true" width="100%" />
-      <br><br><br><br> <!-- ← ここでスペースを稼ぐ -->
+    <!-- 右：サイズ合わせ＆高さ調整 -->
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azuking69&layout=compact&theme=rose&hide_border=true" width="420" height="300"/>
     </td>
   </tr>
 </table>
+
 
 
 ## 📊 GitHub Stats
