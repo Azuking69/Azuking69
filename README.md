@@ -18,11 +18,18 @@
 
 
 ## 🔥 Current Streak / 🏆 Used Languages
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azuking69&theme=rose" width="49.5%"/>
-</a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azuking69&layout=compact&theme=rose" width="49.5%"/>
-
+<table border="0">
+  <tr>
+    <td width="50%">
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azuking69&theme=rose" alt="GitHub Streak" width="100%"/>
+      </a>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azuking69&layout=compact&theme=rose" alt="Top Languages" width="100%"/>
+    </td>
+  </tr>
+</table>
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azuking69&show_icons=true&theme=rose)
 
