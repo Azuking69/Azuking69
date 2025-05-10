@@ -20,12 +20,12 @@
 ## 🔥 Current Streak / 🏆 Used Languages
 <table>
   <tr>
-    <td>
+    <td style="border: none;">
       <a href="https://git.io/streak-stats">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azuking69&theme=rose" alt="GitHub Streak" width="500"/>
       </a>
     </td>
-    <td>
+    <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azuking69&layout=compact&theme=rose" alt="Top Languages" width="500"/>
     </td>
   </tr>
