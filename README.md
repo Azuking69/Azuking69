@@ -20,10 +20,10 @@
 <table border="0">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azuking69&theme=rose" alt="GitHub Streak" width="100%"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azuking69&theme=rose" alt="GitHub Streak" width="100%" height="165"/>
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azuking69&layout=compact&theme=rose&cache_seconds=1" alt="Top Languages" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azuking69&layout=compact&theme=rose&cache_seconds=1" alt="Top Languages" width="100%" height="165"/>
     </td>
   </tr>
 </table>
