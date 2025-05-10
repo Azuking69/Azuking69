@@ -1,5 +1,3 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azuking69&layout=compact&theme=rose&cache_seconds=1)
-
 # Hi! 🐶💕 I'm Azuki! 
 
 
@@ -19,13 +17,14 @@
 </p>
 
 ## 🔥 Current Streak / 🏆 Used Languages
+## 🔥 Current Streak / 🏆 Used Languages
 <table border="0">
   <tr>
     <td width="50%">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azuking69&theme=rose" alt="GitHub Streak" width="100%"/>
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azuking69&layout=compact&theme=rose" alt="Top Languages" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azuking69&layout=compact&theme=rose&cache_seconds=1" alt="Top Languages" width="100%"/>
     </td>
   </tr>
 </table>
