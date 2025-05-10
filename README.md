@@ -12,12 +12,18 @@
 - ⚙️ **Tools**: Git, Docker, VSCode
 
 ## 🔥 Current Streak / 🏆 Used Languages
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Azuking69&theme=rose)](https://git.io/streak-stats)
+<div style="display: flex; justify-content: space-between;">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azuking69&layout=compact&theme=rose)
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azuking69&theme=rose" alt="GitHub Streak"/>
+  </a>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azuking69&layout=compact&theme=rose" alt="Top Languages"/>
+
+</div>
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azuking69&show_icons=true&theme=rose)
 
 ## 📊 3D Contribution Graph
-![3D Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Azuking69&theme=rose)
+![3D Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Azuking69&theme=rose&hide_border=true)
