@@ -20,12 +20,10 @@
 <table>
   <tr>
     <td width="60%" align="center" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azuking69&theme=rose&hide_border=true" width="100%"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azuking69&theme=rose&hide_border=true" width="100%" height="225px" />
     </td>
     <td width="40%" align="center" valign="top">
-      <div style="min-height: 300px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azuking69&layout=compact&theme=rose&cache_seconds=1&hide_border=true" width="100%" />
-      </div>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azuking69&layout=compact&theme=rose&cache_seconds=1&hide_border=true" width="100%" height="225px" />
     </td>
   </tr>
 </table>
