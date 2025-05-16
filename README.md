@@ -23,8 +23,8 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azuking69&theme=rose&hide_border=true" width="100%" />
     </td>
     <td width="40%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azuking69&layout=compact&theme=rose&hide_border=true" width="100%" height="200px" />
-    </td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azuking69&layout=compact&theme=rose&hide_border=true&cache_seconds=1800" width="100%" height="200px" />
+</td>
   </tr>
 </table>
 
