@@ -32,5 +32,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azuking69&show_icons=true&theme=rose)
 
 ## 📊 3D Contribution Graph
-<img src="https://github-readme-3d-contrib.vercel.app/api?username=Azuking69" />
-
+<img src="https://raw.githubusercontent.com/Azuking69/Azuking69/output/profile-3d-contrib/profile-green.svg" />
