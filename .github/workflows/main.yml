@@ -1,26 +1,31 @@
-name: Generate 3D Contribution Graph
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # 毎日午前9時 (JST)
-  workflow_dispatch:
+    - cron: "0 0 * * *"
+  push:
+    branches:
+      - master
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
       - name: Generate Snake Animation
-        uses: Platane/snk@master
+        uses: Platane/snk@v3
         with:
           github_user_name: Azuking69
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            output/github-snake.svg
+            output/github-snake-dark.svg?palette=github-dark
 
       - name: Push to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
