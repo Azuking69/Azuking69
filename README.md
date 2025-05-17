@@ -19,10 +19,10 @@
 ## 🔥 Current Streak / 🏆 Most Used Languages
 <table border="0" width="100%">
   <tr>
-    <td align="center" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azuking69&theme=rose&hide_border=true" width="100%" />
+    <td width="60%" align="center" valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azuking69&theme=rose&hide_border=true" width="100%" height="245px" />
     </td>
-    <td align="center" valign="top">
+    <td width="40%" align="center" valign="top">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azuking69&layout=compact&theme=rose&hide_border=true&cache_seconds=1800" width="100%" height="245px" />
     </td>
   </tr>
