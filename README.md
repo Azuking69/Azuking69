@@ -32,4 +32,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azuking69&show_icons=true&theme=rose)
 
 ## 📊 3D Contribution Graph
-![3D Contribution Graph](https://raw.githubusercontent.com/Azuking69/Azuking69/output/github-snake.svg)
+![3D Contribution Graph](https://github.com/Azuking69/Azuking69/blob/output/github-snake.svg)
