@@ -1,4 +1,5 @@
-# Hi! 🐶💕 I'm Azuki! 
+ 
+![header](https://capsule-render.vercel.app/api?type=blur&height=150&color=gradient&text=Hi!%20🐶💕%20I'm%20Azuki!&textBg=false&fontColor=e9d8d4&fontSize=60&animation=twinkling&reversal=true&stroke=8D192B&strokeWidth=1.5)
 
 
 ## 👩‍💻 About Me
