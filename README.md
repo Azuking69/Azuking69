@@ -5,7 +5,7 @@
 ## 👩‍💻 About Me
 - 🎓 I'm a Yeungjin university student majoring in programming and AI
 - 💻 I love working with Python, HTML!
-- 🌱 Currently learning: Python & HTML, PHP
+- 🌱 Currently learning: Java & HTML, CSS
 
 ## 🛠 Technologies & Tools
 <p align="left"> 
