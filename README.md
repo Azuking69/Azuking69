@@ -30,7 +30,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=Azuking69&theme=rose&hide_border=true"/>
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Azuking69&theme=rose&hide_border=true"/>
     </td>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azuking69&layout=compact&theme=rose&hide_border=true&cache_seconds=1800"/>
