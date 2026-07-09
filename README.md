@@ -39,7 +39,7 @@
 </table>
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azuking69&show_icons=true&theme=rose)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Azuking69&show_icons=true&title_color=8D192B&text_color=333333&icon_color=8D192B&bg_color=FDF3F3)
 
 ## 📊 3D Contribution Graph
 <!-- profile-season-animate.svg -->
