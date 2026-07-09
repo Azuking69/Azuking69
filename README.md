@@ -33,13 +33,13 @@
       <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Azuking69&theme=rose&hide_border=true"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Azuking69&layout=compact&theme=rose&hide_border=true"/>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Azuking69&layout=compact&hide_border=true&bg_color=E9D8D4&title_color=8D192B&text_color=862931&icon_color=8D192B&border_color=E4E2E2"/>
     </td>
   </tr>
 </table>
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Azuking69&show_icons=true&title_color=8D192B&text_color=333333&icon_color=8D192B&bg_color=FDF3F3)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Azuking69&show_icons=true&hide_border=true&bg_color=E9D8D4&title_color=8D192B&text_color=862931&icon_color=8D192B&border_color=E4E2E2)
 
 ## 📊 3D Contribution Graph
 <!-- profile-season-animate.svg -->
