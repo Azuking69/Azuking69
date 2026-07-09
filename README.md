@@ -33,7 +33,7 @@
       <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Azuking69&theme=rose&hide_border=true"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Azuking69&layout=compact&hide_border=true&title_color=8D192B&text_color=333333&icon_color=8D192B&bg_color=FDF3F3"/>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Azuking69&layout=compact&theme=rose&hide_border=true"/>
     </td>
   </tr>
 </table>
